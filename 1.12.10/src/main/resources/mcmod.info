@@ -1,0 +1,16 @@
+[
+{
+  "modid": "class_style_tooltip",
+  "name": "Class Style Tooltip",
+  "description": "Adds context to tooltips",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["mathew_653"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
