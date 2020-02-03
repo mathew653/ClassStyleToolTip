@@ -1,6 +1,0 @@
-Seed regEX on botania(Uses untranslated key apprently)
-https://github.com/Vazkii/Botania/blob/fb8ebd8ca7e4dd24a1c93bf2a92ea4f93fee98fe/src/main/java/vazkii/botania/common/block/tile/TileAltar.java#L66
-https://github.com/Vazkii/Botania/blob/fb8ebd8ca7e4dd24a1c93bf2a92ea4f93fee98fe/src/main/java/vazkii/botania/common/block/tile/TileAltar.java#L131
-
-Obs reflection mappings:
-https://github.com/KevyPorter/Minecraft-Forge-Utils/blob/master/fields.csv
